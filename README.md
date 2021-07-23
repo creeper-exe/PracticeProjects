@@ -1,2 +1,2 @@
 # Practice Projects
-Practicing the stuff i learn (They are not orginal ideas and i might use tutorials)
+Practicing the stuff i learn (Not my original ideas and i use tutorials)
