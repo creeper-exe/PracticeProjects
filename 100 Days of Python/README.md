@@ -2,21 +2,15 @@
 
 
 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
 
 <div align="center">
 <a href="https://github.com/creeper-exe" target="_blank">
