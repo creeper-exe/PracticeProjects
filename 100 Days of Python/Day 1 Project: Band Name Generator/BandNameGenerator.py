@@ -9,3 +9,4 @@ y = input("What's your pet's name? \n")
 
 #Prints the output
 print("Your Band Name could be " + x + ' ' + y)
+
