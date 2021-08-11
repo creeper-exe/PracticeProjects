@@ -1,3 +1,2 @@
 # Practice Projects
-Practicing the stuff i learn (Not my original ideas and i use tutorials)
-ghhdfghh
+Applying the stuff i learn from books, videos, article's and lectures (Not my original ideas)
