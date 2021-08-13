@@ -20,7 +20,8 @@ while not done:
     print("")
     
 
-    #decreases the allowed mistakes by one if the answer is wrong and when it reaches the zero it print game over, and if the answer was right it saves it until the user types all the right letters then it displays that he won
+#decreases the allowed mistakes by one if the answer is wrong and when it reaches the zero it print game over,
+#and if the answer was right it saves it until the user types all the right letters then it displays that he won
     guess = input(f"Allowed Mistakes Left {allowed_mistakes}, Next Guess:")
     guesses.append(guess.lower())
     if guess.lower() not in word.lower():
