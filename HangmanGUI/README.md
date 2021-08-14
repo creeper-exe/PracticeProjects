@@ -1,1 +1,1 @@
-# HagmanGUI inspired by [Tech With]()
+# HagmanGUI inspired by [Tech With Tim]()
