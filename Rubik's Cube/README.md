@@ -8,6 +8,9 @@
 since i am obsessed with the rubiks cube which was invented by erno rubik, i decided to make a digital version of this fascinating toy and i found this Awesome tutorial by [The Coding Train](https://www.youtube.com/user/shiffman)
 
 ## The Tutorial:
-It consists of 3 videos 
+It consists of 3 videos ([1](), [2](), [3]())
+
+Useful links:
+
 
 
