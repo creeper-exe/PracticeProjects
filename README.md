@@ -1,8 +1,17 @@
 # Practice Projects
 Applying the stuff i learn from books, videos, article's, lectures and tutorials
 
+1. Hangman(CLI, GUI) 
+2. Rubik's Cube 
+3. Ceaser Encryption
+4. Name Guessing
+5. 100 days of Python
 
-#### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
+
+
+
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
 
 <div align="center">
 <a href="https://github.com/creeper-exe" target="_blank">
