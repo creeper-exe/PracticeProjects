@@ -3,6 +3,7 @@
 ## Projects (sorted in the order of when i made them)
 1. [Name Guessing]()
 2. [Factorial Calculator]()
+3. [Area of Triangle]()
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
 <div align="center">
