@@ -1,9 +1,11 @@
 # This is a documentation to my C++ learning journey
 
 ## Projects (sorted in the order of when i made them)
-1. [Name Guessing]()
-2. [Factorial Calculator]()
-3. [Area of Triangle]()
+1. [Name Guessing](https://github.com/creeper-exe/PracticeProjects/tree/main/C%2B%2B%20Learning%20Journey/Name%20Guessing)
+2. [Factorial Calculator](https://github.com/creeper-exe/PracticeProjects/tree/main/C%2B%2B%20Learning%20Journey/Factorial%20Calculator)
+3. [Area of Triangle](https://github.com/creeper-exe/PracticeProjects/tree/main/C%2B%2B%20Learning%20Journey/Area%20of%20Triangle)
+4. [Star Triangle](https://github.com/creeper-exe/PracticeProjects/tree/main/C%2B%2B%20Learning%20Journey/Star%20Triangle)
+5. [Diamond star pattern]()
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
 <div align="center">
