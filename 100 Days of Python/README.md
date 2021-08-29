@@ -1,15 +1,8 @@
 # 100 Days of Python (London App Brewery) by  Dr Angela
 
 1.[Day 1 Project: Band Name Generator](https://github.com/creeper-exe/PracticeProjects/tree/main/100%20Days%20of%20Python/Day%201%20Project:%20Band%20Name%20Generator)
-2.[Day 2 Project: Tip Calculator]()
-3.
 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
+
 
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
