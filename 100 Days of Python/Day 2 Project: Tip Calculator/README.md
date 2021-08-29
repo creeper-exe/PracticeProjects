@@ -1,5 +1,7 @@
 # Day 2 Project: Tip Calculator
 
+A simple calculator that calculate the tip and how much each person should pay
+
 ![image](https://user-images.githubusercontent.com/57595625/131261565-9e812fb9-be20-4bbe-82aa-68eb2cc80223.png)
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
