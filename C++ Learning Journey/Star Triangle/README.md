@@ -1,6 +1,6 @@
 # Star Triangle
 
-Simple app that take number of rows as input, and out put a triangle of stars
+Simple app that take number of rows as input, and output a triangle of stars
 
 ## EX:
 
