@@ -1,7 +1,8 @@
 # 100 Days of Python (London App Brewery) by  Dr Angela
 
-still working on that
-
+1.[Day 1 Project: Band Name Generator](https://github.com/creeper-exe/PracticeProjects/tree/main/100%20Days%20of%20Python/Day%201%20Project:%20Band%20Name%20Generator)
+2.[]()
+3.
 
 <br/> 
 <br/> 
