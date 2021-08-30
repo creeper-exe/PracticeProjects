@@ -1,5 +1,7 @@
 # Day 3 Project: Treasure Island
 
+choose your own adventure game
+
 ![image](https://user-images.githubusercontent.com/57595625/131390742-8f8984c5-a797-4fef-9234-e7ec57170635.png)
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
