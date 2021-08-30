@@ -1,11 +1,11 @@
 # Practice Projects
 Applying the stuff i learn from books, videos, article's, lectures and tutorials
 
-1. Hangman(CLI, GUI) 
-2. Rubik's Cube 
-3. Ceaser Encryption
-4. C++ learning Journey
-5. 100 days of Python
+1. Hangman([CLI]()_, [GUI]()) 
+2. [Rubik's Cube]()
+3. [Ceaser Encryption]()
+4. [C++ learning Journey]()
+5. [100 days of Python]()
 
 
 
