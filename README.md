@@ -1,7 +1,7 @@
 # Practice Projects
 Applying the stuff i learn from books, videos, article's, lectures and tutorials
 
-1. Hangman([CLI](https://github.com/creeper-exe/PracticeProjects/tree/main/HangmanCLI)_, [GUI](https://github.com/creeper-exe/PracticeProjects/tree/main/HangmanGUI)) 
+1. Hangman([CLI](https://github.com/creeper-exe/PracticeProjects/tree/main/HangmanCLI), [GUI](https://github.com/creeper-exe/PracticeProjects/tree/main/HangmanGUI)) 
 2. [Rubik's Cube](https://github.com/creeper-exe/PracticeProjects/tree/main/Rubik's%20Cube)
 3. [Ceaser Encryption](https://github.com/creeper-exe/PracticeProjects/tree/main/CaesarEncryption)
 4. [C++ learning Journey](https://github.com/creeper-exe/PracticeProjects/tree/main/C%2B%2B%20Learning%20Journey)
