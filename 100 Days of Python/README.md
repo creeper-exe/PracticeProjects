@@ -4,6 +4,7 @@
 ## Projects
 1. [Day 1 Project: Band Name Generator](https://github.com/creeper-exe/PracticeProjects/tree/main/100%20Days%20of%20Python/Day%201%20Project:%20Band%20Name%20Generator)
 2. [Day 2 Project: Tip Calculator](https://github.com/creeper-exe/PracticeProjects/tree/main/100%20Days%20of%20Python/Day%202%20Project:%20Tip%20Calculator)
+3. [Day 3 Project: Treasure Island](https://github.com/creeper-exe/PracticeProjects/tree/main/100%20Days%20of%20Python/Day%203%20Project:%20Treasure%20Island)
 
 
 
