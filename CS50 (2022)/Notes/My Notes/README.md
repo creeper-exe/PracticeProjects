@@ -1,4 +1,4 @@
-# My Notes
+# [My Notes](https://dashing-force-686.notion.site/Cyber-Security-bedaf519b9eb4b9d8902bcd13fbed091)
 
 you can view my notes at notion [here](https://dashing-force-686.notion.site/CS50-c7e218b76bd749129f2a7dfb2a02fd01)
 
