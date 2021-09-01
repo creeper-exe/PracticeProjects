@@ -1,9 +1,7 @@
 
 # [CS50 Fall 2021](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
-## Course Notes
-1.
-2.
+
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
 
