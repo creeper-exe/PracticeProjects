@@ -1,4 +1,4 @@
-# Windows Script Extracts and Email Wifi Credentials inspired by [David bombal]()
+# Windows Script Extracts and Email Wifi Credentials inspired by [David Bombal](https://www.youtube.com/watch?v=SzYKzAHsdMg)
 
 A simple script that extract the wifi name and password and email them to the specified by the script user
 
