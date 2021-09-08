@@ -1,6 +1,6 @@
 # Windows Script Extracts and Email Wifi Credentials inspired by [David Bombal](https://www.youtube.com/watch?v=SzYKzAHsdMg)
 
-A simple [script]() that extract the wifi name and password and email them to the specified by the script user
+A simple [script](https://github.com/creeper-exe/PracticeProjects/blob/main/Windows%20Script%20Extracts%20and%20Email%20Wifi%20Credentials/WindowsScriptExtractsandEmailWifiCredentials.py) that extract the wifi name and password and email them to the specified by the script user
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
 
