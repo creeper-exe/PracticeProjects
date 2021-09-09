@@ -7,6 +7,7 @@ Applying the stuff i learn from books, videos, article's, lectures and tutorials
 4. [C++ learning Journey](https://github.com/creeper-exe/PracticeProjects/tree/main/C%2B%2B%20Learning%20Journey)
 5. [100 days of Python](https://github.com/creeper-exe/PracticeProjects/tree/main/100%20Days%20of%20Python)
 6. [Windows Script Extracts and Email Wifi Credentials](https://github.com/creeper-exe/PracticeProjects/tree/main/Windows%20Script%20Extracts%20and%20Email%20Wifi%20Credentials)
+7. [CS50 (2021)]()
 
 
 
