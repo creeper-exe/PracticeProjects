@@ -1,6 +1,6 @@
 # Notes
 
-1. [Official Notes](https://github.com/creeper-exe/PracticeProjects/tree/main/CS50%20(2022)/Notes/Official%20Notes)
+1. [Official Notes](https://github.com/creeper-exe/PracticeProjects/tree/main/CS50%20(2021)/Notes/Official%20Notes)
 2. [My Notes](https://github.com/creeper-exe/PracticeProjects/tree/main/CS50%20(2021)/Notes/My%20Notes)
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
