@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/57595625/133139230-16e9e3ee-0d48-4e63-a805-f3e7a461a640.png)
 
 1. [Simple Caesar Encryption](https://github.com/creeper-exe/PracticeProjects/blob/main/CaesarEncryption/SimpleCeaserEncryption.py)
-2. [Enhanced Caesar Encryption](https://github.com/creeper-exe/PracticeProjects/tree/main/CaesarEncryption)
+2. [Enhanced Caesar Encryption](https://github.com/creeper-exe/PracticeProjects/blob/main/CaesarEncryption/EnhancedCaesarEncryption.py)
 
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
