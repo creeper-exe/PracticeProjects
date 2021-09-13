@@ -1,13 +1,14 @@
 # Practice Projects
 Applying the stuff i learn from books, videos, article's, lectures and tutorials
 
-1. Hangman([CLI](https://github.com/creeper-exe/PracticeProjects/tree/main/HangmanCLI), [GUI](https://github.com/creeper-exe/PracticeProjects/tree/main/HangmanGUI)) 
+1. Hangman ([CLI](https://github.com/creeper-exe/PracticeProjects/tree/main/HangmanCLI), [GUI](https://github.com/creeper-exe/PracticeProjects/tree/main/HangmanGUI)) 
 2. [Rubik's Cube](https://github.com/creeper-exe/PracticeProjects/tree/main/Rubik's%20Cube)
-3. [Ceaser Encryption](https://github.com/creeper-exe/PracticeProjects/tree/main/CaesarEncryption)
+3. Caesar Encryption ([Simple Caesar Encryption](https://github.com/creeper-exe/PracticeProjects/blob/main/CaesarEncryption/SimpleCeaserEncryption.py), [Enhanced Caesar Encryption](https://github.com/creeper-exe/PracticeProjects/tree/main/CaesarEncryption))
 4. [C++ learning Journey](https://github.com/creeper-exe/PracticeProjects/tree/main/C%2B%2B%20Learning%20Journey)
 5. [100 days of Python](https://github.com/creeper-exe/PracticeProjects/tree/main/100%20Days%20of%20Python)
 6. [Windows Script Extracts and Email Wifi Credentials](https://github.com/creeper-exe/PracticeProjects/tree/main/Windows%20Script%20Extracts%20and%20Email%20Wifi%20Credentials)
 7. [CS50 (2021)]()
+
 
 
 
