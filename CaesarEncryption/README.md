@@ -1,7 +1,7 @@
 # Ceasar Encryption inspired by [NeuralNine](https://www.youtube.com/watch?v=JEsUlx0Ps9k&list=PL7yh-TELLS1EgOLIPo1sVuf_rDPEp33S8&index=4)
 
-1. [Simple Ceaser Encryption](https://github.com/creeper-exe/PracticeProjects/blob/main/CaesarEncryption/SimpleCeaserEncryption.py)
-2. [Enhanced Ceaser Encryption]()
+1. [Simple Caesar Encryption](https://github.com/creeper-exe/PracticeProjects/blob/main/CaesarEncryption/SimpleCeaserEncryption.py)
+2. [Enhanced Caesar Encryption](https://github.com/creeper-exe/PracticeProjects/tree/main/CaesarEncryption)
 
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
