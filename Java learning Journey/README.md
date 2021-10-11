@@ -2,6 +2,10 @@
 
 1. Hello World ([CLI](https://github.com/creeper-exe/PracticeProjects/blob/main/Java%20learning%20Journey/Hello%20World/HelloWorld.java),[GUI](https://github.com/creeper-exe/PracticeProjects/blob/main/Java%20learning%20Journey/Hello%20World/HelloWorldGUI.java))
 2. [Hypotenuse Calculator](https://github.com/creeper-exe/PracticeProjects/tree/main/Java%20learning%20Journey/Hypotenuse%20Calculator)
+3. [Random Number Generator]()
+
+
+
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
 
