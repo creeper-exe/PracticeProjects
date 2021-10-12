@@ -8,6 +8,7 @@ Applying the stuff i learn from books, videos, article's, lectures and tutorials
 5. [100 days of Python](https://github.com/creeper-exe/PracticeProjects/tree/main/100%20Days%20of%20Python)
 6. [Windows Script Extracts and Email Wifi Credentials](https://github.com/creeper-exe/PracticeProjects/tree/main/Windows%20Script%20Extracts%20and%20Email%20Wifi%20Credentials)
 7. [Java Learning Journey](https://github.com/creeper-exe/PracticeProjects/blob/main/Java%20learning%20Journey/README.md)
+8. [Python for Cybersecurity (Course)]()
 
 
 
