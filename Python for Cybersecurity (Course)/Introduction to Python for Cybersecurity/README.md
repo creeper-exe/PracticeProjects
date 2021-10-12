@@ -1,7 +1,7 @@
 # [Introduction to Python for Cybersecurity]()
 
 Week 2:
-1. [Network Scanning]()
+1. [Network Scanning](https://github.com/creeper-exe/PracticeProjects/tree/main/Python%20for%20Cybersecurity%20(Course)/Introduction%20to%20Python%20for%20Cybersecurity/Network%20Scanning)
 2. [DNS Exploration]()
 
 Week 3:
