@@ -1,4 +1,4 @@
-# [DNS Exploration]()
+# [DNS Exploration](https://github.com/creeper-exe/PracticeProjects/blob/main/Python%20for%20Cybersecurity%20(Course)/Introduction%20to%20Python%20for%20Cybersecurity/DNS%20Exploration/DNSExploration.py)
 
 A simple script for DNS Exploration
 
