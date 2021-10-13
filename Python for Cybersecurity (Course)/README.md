@@ -1,6 +1,6 @@
 # [Python for Cybersecurity (Course)](https://www.coursera.org/specializations/pythonforcybersecurity?skipBrowseRedirect=true)
 
-1. [Introduction to Python for Cybersecurity]()
+1. [Introduction to Python for Cybersecurity](https://github.com/creeper-exe/PracticeProjects/tree/main/Python%20for%20Cybersecurity%20(Course)/Introduction%20to%20Python%20for%20Cybersecurity)
 2. [Execution, persistence, privilege escalation and evasion]()
 3. [Credential Access, discovery, lateral movement & collection]()
 4. [Python for Command-and-control, Exfiltration and Impact]()
