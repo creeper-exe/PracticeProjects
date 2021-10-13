@@ -5,7 +5,7 @@ Week 2:
 2. [DNS Exploration](https://github.com/creeper-exe/PracticeProjects/tree/main/Python%20for%20Cybersecurity%20(Course)/Introduction%20to%20Python%20for%20Cybersecurity/DNS%20Exploration)
 
 Week 3:
-1. [Default Account Discovery]()
+1. [Default Account Discovery](https://github.com/creeper-exe/PracticeProjects/blob/main/Python%20for%20Cybersecurity%20(Course)/Introduction%20to%20Python%20for%20Cybersecurity/Default%20Account%20Discovery/README.md)
 2. []()
 3. []()
 
