@@ -1,4 +1,4 @@
-# [Default Account Discovery]()
+# [Default Account Discovery](https://github.com/creeper-exe/PracticeProjects/blob/main/Python%20for%20Cybersecurity%20(Course)/Introduction%20to%20Python%20for%20Cybersecurity/Default%20Account%20Discovery/DefaultAccountDiscovery.py)
 
 A simple script that try logging in using default username and password
 
